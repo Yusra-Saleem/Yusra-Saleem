@@ -58,18 +58,20 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Saleem&theme=dark" alt="GitHub Streak" />
- 
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Yearly Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=react-dark&hide_border=true)
+![GitHub Yearly Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=github-dark&hide_border=true&area=true&custom_title=Yusra%27s%20Yearly%20Contributions)
 
 ---
+
+## 📊 Top Languages
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -77,11 +79,10 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
-
 
 ## 🌍 Connect With Me
 
