@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/YusraSaleem/YusraSaleem/main/github-header.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 
 <h1 align="center">Hi 👋, I'm Yusra Saleem</h1>
 <h3 align="center">Creative Frontend Developer | UI/UX Designer | Full-Stack Developer | Next.js Developer | Social Media Manager | Agentic AI Learner</h3>
@@ -97,7 +96,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
   </a>
 </p>
 <p align="center">
-- 📫 Reach me at ** yusrasaleem679@gmail.com **
+- 📫 Reach me at  **yusrasaleem679@gmail.com** .
 </p>
 ---
 
