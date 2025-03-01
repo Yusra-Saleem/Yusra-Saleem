@@ -91,7 +91,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
   </a>
 </p>
 <p align="center">
-- 📫 Reach me at **yusrasaleem.dev@gmail.com**
+- 📫 Reach me at **yusrasaleem679@gmail.com**
 </p>
 ---
 
