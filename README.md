@@ -58,7 +58,7 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Saleem&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
+ 
 </p>
 
 ---
@@ -66,6 +66,11 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 ## 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=react-dark&hide_border=true)
+
+---
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
@@ -77,15 +82,6 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 
 ---
 
-## 🌟 Featured Projects
-
-Here are some of my favorite projects I’ve worked on:
-
-1. **E-Commerce Platform** - Built with Next.js, Tailwind CSS, and Firebase. [View Project](#)
-2. **Portfolio Website** - A modern portfolio showcasing my work and skills. [View Project](#)
-3. **AI-Powered Chatbot** - A conversational AI chatbot built with React and OpenAI API. [View Project](#)
-
----
 
 ## 🌍 Connect With Me
 
