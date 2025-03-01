@@ -1,12 +1,11 @@
-[![MasterHead](https://raw.githubusercontent.com/YusraSaleem/YusraSaleem/main/github-header.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 
 <h1 align="center">Hi 👋, I'm Yusra Saleem</h1>
-<h3 align="center">Creative Frontend Developer | UI/UX Enthusiast | Cloud Computing Learner</h3>
+<h3 align="center">Creative Frontend Developer | UI/UX designer | Full-Stack Developer | Next.js Developer | Social Media Manager | Agentic AI learner </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YusraSaleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YusraSaleem&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/YusraSaleem" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YusraSaleem?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/YusraSaleem?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -14,13 +13,15 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** with a passion for creating stunning, responsive, and user-friendly web experiences. I specialize in modern frontend technologies and am always exploring new tools and frameworks to enhance my skills. When I'm not coding, you'll find me designing in **Canva**, experimenting with **UI/UX**, or diving into **Cloud Computing** and **AI**.
+I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in building responsive, user-friendly web applications using modern technologies like **Next.js**, **React**, and **Tailwind CSS**. As a **Full-Stack Developer**, I design and develop scalable, end-to-end solutions. I also have experience in **Social Media Marketing & Management**, helping brands enhance their online presence.
 
-- 🔭 Currently working on **an advanced e-commerce platform using Next.js and modern frontend tools**
-- 🌱 Expanding knowledge in **Next.js, Cloud Computing, and Generative AI**
-- 👯 Open to collaboration on **scalable web applications and AI-powered projects**
-- 💬 Ask me about **Frontend Development, UI/UX, and Cloud Technologies**
-- 📫 Reach me at **yusrasaleem.dev@gmail.com**
+Currently, I’m exploring **Agentic AI Development** and expanding my knowledge in **Cloud Computing** and **Generative AI**. I’m passionate about learning new tools and frameworks to stay ahead in the ever-evolving tech landscape.
+
+- 🔭 Working on **an advanced e-commerce platform using Next.js**
+- 🌱 Learning **Next.js, Cloud Computing, and Generative AI**
+- 👯 Open to collaborating on **scalable web apps and AI-powered projects**
+- 💬 Ask me about **Frontend Development, UI/UX, and Full-Stack Development**
+- 📫 Reach me at **yusrasaleem679@gmail.com**
 - ⚡ Fun fact: **I’m a night owl who codes best under the stars!**
 
 ---
@@ -48,28 +49,30 @@ I'm a **Frontend Developer** with a passion for creating stunning, responsive, a
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Learning & Exploring:
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%232496ED.svg?style=for-the-badge&logo=vercelr&logoColor=white)
 
 ---
 
 ## 📊 Real-Time GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusraSaleem&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusraSaleem&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusraSaleem&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Saleem&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=merko&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YusraSaleem&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -84,18 +87,10 @@ Here are some of my favorite projects I’ve worked on:
 
 ---
 
-## 📝 Latest Blog Posts
-
-- [How to Build a Scalable E-Commerce Platform with Next.js](#)
-- [Mastering Tailwind CSS: Tips and Tricks for Developers](#)
-- [Getting Started with Cloud Computing: A Beginner’s Guide](#)
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yusrasaleem" target="blank">
+  <a href="https://www.linkedin.com/in/yusrasaleem-developer/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://twitter.com/YusraSaleem" target="blank">
@@ -104,18 +99,7 @@ Here are some of my favorite projects I’ve worked on:
   <a href="https://instagram.com/yusra.saleem" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://medium.com/@yusrasaleem" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" />
-  </a>
 </p>
-
----
-
-## 🎨 Design & Creativity
-
-I also love designing! Check out my **Canva** designs and **Figma** prototypes:
-- [Canva Portfolio](#)
-- [Figma Projects](#)
 
 ---
 
