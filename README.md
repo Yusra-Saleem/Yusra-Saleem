@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yusra-Saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/YusraSaleem" target="blank">
-    <img src="https://img.shields.io/twitter/in/follow/yusrasaleem-developer?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+    <img src="https://img.shields.io/linkedin/in/follow/yusrasaleem-developer?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
