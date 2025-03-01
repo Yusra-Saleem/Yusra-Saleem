@@ -14,15 +14,8 @@
 
 ## 🚀 About Me
 
-I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in building responsive, user-friendly web applications using modern technologies like **Next.js**, **React**, and **Tailwind CSS**. As a **Full-Stack Developer**, I design and develop scalable, end-to-end solutions. I also have experience in **Social Media Marketing & Management**, helping brands enhance their online presence.
+I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in building responsive, user-friendly web applications using modern technologies like **Next.js**, **React**, and **Tailwind CSS**. As a **Full-Stack Developer**, I design and develop scalable, end-to-end solutions. I also have experience in **Social Media Marketing & Management**, helping brands enhance their online presence.Currently, I’m exploring **Agentic AI Development** . 
 
-Currently, I’m exploring **Agentic AI Development** and expanding my knowledge in **Cloud Computing** and **Generative AI**. I’m passionate about learning new tools and frameworks to stay ahead in the ever-evolving tech landscape.
-
-- 🔭 Working on **an advanced e-commerce platform using Next.js**
-- 🌱 Learning **Next.js, Cloud Computing, and Generative AI**
-- 👯 Open to collaborating on **scalable web apps and AI-powered projects**
-- 💬 Ask me about **Frontend Development, UI/UX, and Full-Stack Development**
-- 📫 Reach me at **yusrasaleem.dev@gmail.com**
 - ⚡ Fun fact: **I’m a night owl who codes best under the stars!**
 
 ---
@@ -97,7 +90,9 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
-
+<p align="center">
+- 📫 Reach me at **yusrasaleem.dev@gmail.com**
+</p>
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!** ⭐
