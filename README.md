@@ -60,7 +60,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 
 ---
 
-## 📈 GitHub Yearly Contribution Graph
+## 📈 GitHub Monthly Contribution Graph
 
 ![GitHub Yearly Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=github-dark&hide_border=true&area=true&custom_title=Yusra%27s%20Yearly%20Contributions)
 
