@@ -1,11 +1,12 @@
+[![MasterHead](https://raw.githubusercontent.com/YusraSaleem/YusraSaleem/main/github-header.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 
 <h1 align="center">Hi 👋, I'm Yusra Saleem</h1>
-<h3 align="center">Creative Frontend Developer | UI/UX designer | Full-Stack Developer | Next.js Developer | Social Media Manager | Agentic AI learner </h3>
+<h3 align="center">Creative Frontend Developer | UI/UX Designer | Full-Stack Developer | Next.js Developer | Social Media Manager | Agentic AI Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YusraSaleem&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yusra-Saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/YusraSaleem" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YusraSaleem?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/Yusra-Saleem?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -49,30 +50,29 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%232496ED.svg?style=for-the-badge&logo=vercelr&logoColor=white)
 
 ---
 
 ## 📊 Real-Time GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Saleem&theme=gruvbox" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Saleem&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=merko&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=react-dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
