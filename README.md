@@ -22,7 +22,7 @@ Currently, I’m exploring **Agentic AI Development** and expanding my knowledge
 - 🌱 Learning **Next.js, Cloud Computing, and Generative AI**
 - 👯 Open to collaborating on **scalable web apps and AI-powered projects**
 - 💬 Ask me about **Frontend Development, UI/UX, and Full-Stack Development**
-- 📫 Reach me at **yusrasaleem679@gmail.com**
+- 📫 Reach me at **yusrasaleem.dev@gmail.com**
 - ⚡ Fun fact: **I’m a night owl who codes best under the stars!**
 
 ---
