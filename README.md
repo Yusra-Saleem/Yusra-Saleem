@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in building responsive, user-friendly web applications using modern technologies like **Next.js**, **React**, and **Tailwind CSS**. As a **Full-Stack Developer**, I design and develop scalable, end-to-end solutions. I also have experience in **Social Media Marketing & Management**, helping brands enhance their online presence.Currently, I’m exploring **Agentic AI Development** . 
 
@@ -20,7 +20,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend Development:
 <p align="left">
@@ -52,7 +52,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 
 ---
 
-## 📊 Real-Time GitHub Stats
+##  Real-Time GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=dark" alt="GitHub Stats" />
@@ -61,13 +61,13 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 
 ---
 
-## 📈 GitHub Monthly Contribution Graph
+##  GitHub Monthly Contribution Graph
 
 ![GitHub Yearly Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Saleem&theme=github-dark&hide_border=true&area=true&custom_title=Yusra%27s%20Yearly%20Contributions)
 
 ---
 
-## 📊 Top Languages
+##  Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
@@ -75,7 +75,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -83,7 +83,7 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusrasaleem-developer/" target="blank">
