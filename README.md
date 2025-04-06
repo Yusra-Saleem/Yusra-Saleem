@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yusra Saleem</h1>
-<h3 align="center">Creative Frontend Developer | UI/UX Designer | Full-Stack Developer | Next.js Developer | Social Media Manager | Agentic AI Learner</h3>
+<h3 align="center">Creative Frontend Developer | UI/UX Designer | Next.js Developer | Social Media Manager | Agentic AI Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yusra-Saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
