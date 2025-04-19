@@ -72,7 +72,6 @@ I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
 </p>
----
 
 ##  GitHub Trophies
 
