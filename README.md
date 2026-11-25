@@ -1,101 +1,44 @@
+# Yusra Saleem
+### AI Systems Architect | Full-Stack Engineer
 
-<h1 align="center">Hi 👋, I'm Yusra Saleem</h1>
-<h3 align="center">Creative Frontend Developer | UI/UX Designer | Next.js Developer | Social Media Manager | Agentic AI Learner</h3>
+Systems engineer specializing in autonomous agent architectures, real-time voice infrastructure, and production SaaS platforms. Focused on building deterministic, fault-tolerant workflows that automate business operations at scale.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yusra-Saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-   <a href="https://www.linkedin.com/in/yusrasaleem-developer/" target="blank">
-    <img src="https://img.shields.io/badge/Follow-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Follow" />
-  </a>
-
-</p>
+[yusrasaleem.dev](https://yusrasaleem.dev) &bull; [LinkedIn](https://linkedin.com/in/yusrasaleem-developer) &bull; [Email](mailto:yusrasaleem679@gmail.com)
 
 ---
 
-##  About Me
+### Core Specialization
 
-I'm a **Creative Frontend Developer** and **UI/UX Designer** with expertise in building responsive, user-friendly web applications using modern technologies like **Next.js**, **React**, and **Tailwind CSS**. As a **Full-Stack Developer**, I design and develop scalable, end-to-end solutions. I also have experience in **Social Media Marketing & Management**, helping brands enhance their online presence.Currently, I’m exploring **Agentic AI Development** . 
-
-- ⚡ Fun fact: **I’m a night owl who codes best under the stars!**
-
----
-
-##  Tech Stack
-
-### Frontend Development:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
-  
-</p>
-
-### Backend & Scripting:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-</p>
-
-### Tools & Technologies:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" style="margin-right: 10px;" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin-right: 10px;" />
-</p>
+- **Autonomous Agent Swarms & Tool Calling:** Multi-agent coordination with the OpenAI Agents SDK, Model Context Protocol (MCP), and self-healing interceptors for exception recovery.
+- **Low-Latency Conversational Voice AI:** Bidirectional WebRTC audio pipelines with sub-300ms stream latency and real-time database function calling.
+- **Deterministic Vector RAG:** Qdrant vector retrieval, hybrid semantic search, context engineering, and citation-verified enterprise documentation search.
+- **Production Full-Stack SaaS:** Next.js 15 (App Router), FastAPI, PostgreSQL transactions, and automated cloud deployments on AWS.
 
 ---
 
-##  Real-Time GitHub Stats
+### Featured Systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Saleem&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Saleem&theme=dark" alt="GitHub Streak" />
-</p>
-
-
-
-##  Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Saleem&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+| System | Architecture Stack | Technical Focus |
+| :--- | :--- | :--- |
+| **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console |
+| **DocuScan AI Agent** | Python, OpenAI Agents SDK, OCR Pipeline | Autonomous document ingestion, parsing, and context routing |
+| **WebRTC Voice AI** | WebRTC, OpenAI Realtime API, FastAPI | Low-latency streaming voice bot with live database queries |
+| **Enterprise RAG Engine** | Qdrant Vector DB, Python, LangChain | Hybrid vector search with deterministic regulatory citations |
+| **LuxeMarket Platform** | Next.js, Stripe, PostgreSQL, AWS | Full-stack e-commerce SaaS with secure billing transactions |
 
 ---
 
-##  GitHub Trophies
+### Technical Capabilities
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yusra-Saleem&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-##  Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yusrasaleem-developer/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/YusraSaleem" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/yusra.saleem" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-</p>
-<p align="center">
-  
- 📫 Reach me at  **yusrasaleem679@gmail.com** .
-  
-</p>
+- **Languages & Frameworks:** Python, TypeScript, JavaScript, Next.js 15, React, FastAPI
+- **AI & Agentic Systems:** OpenAI Agents SDK, Model Context Protocol (MCP), OpenAI Realtime API, LangGraph, CrewAI
+- **Data & Vector Storage:** PostgreSQL, Qdrant Vector DB, Redis
+- **Infrastructure & Protocols:** WebRTC, Docker, AWS (EC2, S3), Git, RESTful APIs
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
+### Contact
+
+- Website: https://yusrasaleem.dev
+- LinkedIn: https://linkedin.com/in/yusrasaleem-developer
+- Direct Inquiries: yusrasaleem679@gmail.com
