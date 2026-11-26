@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="100%" height="150">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071917" />
+      <stop offset="50%" stop-color="#0B201E" />
+      <stop offset="100%" stop-color="#0E2825" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#52D3A2" stop-opacity="0" />
+      <stop offset="50%" stop-color="#52D3A2" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7FAEA6" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#7FAEA6" stroke-width="0.5" stroke-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="850" height="150" rx="12" fill="url(#bgGrad)" stroke="#7FAEA6" stroke-width="1" stroke-opacity="0.25" />
+  
+  <!-- Subtle Grid Overlay -->
+  <rect width="850" height="150" rx="12" fill="url(#grid)" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="850" height="2" fill="url(#lineGrad)" />
+
+  <!-- Left Content -->
+  <!-- Monospace Subtitle Tag -->
+  <text x="36" y="38" font-family="'Courier New', Courier, monospace" font-size="10" font-weight="700" fill="#52D3A2" letter-spacing="2.5">
+    SYSTEM CONSOLE // FULL-STACK &amp; AI SYSTEMS
+  </text>
+
+  <!-- Name -->
+  <text x="36" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif" font-size="30" font-weight="800" fill="#E8FAF4" letter-spacing="2">
+    YUSRA SALEEM
+  </text>
+
+  <!-- Engineering Focus Tagline -->
+  <text x="36" y="108" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="600" fill="#7FAEA6" letter-spacing="1.5">
+    SOFTWARE ENGINEER • AUTONOMOUS MULTI-AGENT ARCHITECTURES
+  </text>
+
+  <!-- Bottom Coordinates / Status -->
+  <text x="36" y="132" font-family="'Courier New', Courier, monospace" font-size="9.5" font-weight="500" fill="#7FAEA6" fill-opacity="0.6" letter-spacing="1">
+    LOC: KARACHI, PK • REMOTE • HIGH-CONCURRENCY SAAS &amp; DETERMINISTIC RAG
+  </text>
+
+  <!-- Right Side Company Status Card -->
+  <g transform="translate(565, 36)">
+    <!-- Card Frame -->
+    <rect width="250" height="76" rx="8" fill="#071816" fill-opacity="0.9" stroke="#7FAEA6" stroke-width="1" stroke-opacity="0.3" />
+    
+    <!-- Status Dot Pulse -->
+    <circle cx="20" cy="24" r="4" fill="#52D3A2" />
+    <circle cx="20" cy="24" r="7" fill="#52D3A2" fill-opacity="0.25" />
+
+    <!-- Status Header -->
+    <text x="34" y="27" font-family="'Courier New', Courier, monospace" font-size="9" font-weight="700" fill="#52D3A2" letter-spacing="1.5">
+      ACTIVE ENGAGEMENT
+    </text>
+
+    <!-- Company Name -->
+    <text x="16" y="47" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" fill="#E8FAF4" letter-spacing="0.3">
+      Advanced Group of Engineering
+    </text>
+    
+    <!-- Role Subtext -->
+    <text x="16" y="63" font-family="'Courier New', Courier, monospace" font-size="9" font-weight="500" fill="#7FAEA6" letter-spacing="0.5">
+      ROLE: SOFTWARE ENGINEER
+    </text>
+  </g>
+</svg>
