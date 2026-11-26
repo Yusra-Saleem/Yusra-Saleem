@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Python-0B1F1D?style=flat-square&logo=python&logoColor=52D3A2" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-0B1F1D?style=flat-square&logo=postgresql&logoColor=7FAEA6" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-0B1F1D?style=flat-square&logo=fastapi&logoColor=7FAEA6" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Uvicorn-0B1F1D?style=flat-square&logo=gunicorn&logoColor=52D3A2" alt="Uvicorn" />
   <img src="https://img.shields.io/badge/Pydantic-0B1F1D?style=flat-square&logo=pydantic&logoColor=7FAEA6" alt="Pydantic" />
   <img src="https://img.shields.io/badge/Node.js-0B1F1D?style=flat-square&logo=nodedotjs&logoColor=52D3A2" alt="Node.js" />
   <img src="https://img.shields.io/badge/OpenAI_Agents-0B1F1D?style=flat-square&logo=openai&logoColor=7FAEA6" alt="OpenAI" />
