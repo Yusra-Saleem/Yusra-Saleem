@@ -1,80 +1,68 @@
-# Yusra Saleem
-### Full-Stack & AI Systems Engineer
+<div align="center">
 
-> Engineering deterministic, fault-tolerant autonomous agent architectures and production-grade SaaS platforms. Bridging transactional relational stability with adaptive AI reasoning at scale.
+![Yusra Saleem Banner](https://raw.githubusercontent.com/Yusra-Saleem/Yusra-Saleem/main/header.svg)
 
-```
-Organization : Advanced Group of Engineering Inc.
-Specialization: Autonomous Multi-Agent Swarms & Full-Stack SaaS Platforms
-Location      : Karachi, Pakistan (Open to Global Remote Engagements)
-Console       : https://yusrasaleem.dev
-```
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yusra-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yusrasaleem.dev"><img src="https://img.shields.io/badge/Console-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:yusrasaleem679@gmail.com"><img src="https://img.shields.io/badge/Inquiries-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/Yusra96215"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yusra-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-0B1F1D?style=flat-square&logo=linkedin&logoColor=7FAEA6" alt="LinkedIn" /></a>
+  <a href="https://yusrasaleem.dev"><img src="https://img.shields.io/badge/Portfolio-0B1F1D?style=flat-square&logo=googlechrome&logoColor=52D3A2" alt="Portfolio" /></a>
+  <a href="mailto:yusrasaleem679@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F1D?style=flat-square&logo=gmail&logoColor=E09A8D" alt="Email" /></a>
+  <a href="https://x.com/Yusra96215"><img src="https://img.shields.io/badge/X-0B1F1D?style=flat-square&logo=x&logoColor=E8FAF4" alt="X" /></a>
 </p>
+
+</div>
+
+Software Engineer specializing in scalable full-stack SaaS platforms and autonomous multi-agent systems. Currently engineering production web software at **Advanced Group of Engineering Inc.**, focusing on type-safe backends with FastAPI and PostgreSQL, and high-concurrency web frontends with Next.js 15.
 
 ---
 
 ### Architectural Pillars
 
-- **Autonomous Multi-Agent Swarms:** Deterministic agent coordination via the OpenAI Agents SDK and Model Context Protocol (MCP). Self-healing retry interceptors, state machine handoffs, and zero-prompt-fragility execution.
-- **Production Enterprise SaaS Engineering:** High-throughput full-stack architectures built on Next.js 15 (App Router, Server Actions, React 19), FastAPI, and PostgreSQL with atomic transaction guarantees.
-- **Deterministic Vector RAG & Ingestion:** Hybrid sparse-dense retrieval via Qdrant Vector DB, semantic chunking pipelines, and citation-verified enterprise documentation search.
-- **Resilient Cloud Infrastructure:** Containerized microservices with Docker, automated CI/CD validation pipelines via GitHub Actions, and high-concurrency cloud deployments on AWS.
+- **Autonomous Multi-Agent Orchestration:** Designing self-healing agent swarms using the OpenAI Agents SDK and Model Context Protocol (MCP) with deterministic exception handling and self-correcting tool loops.
+- **High-Performance Full-Stack SaaS:** Building responsive, type-safe full-stack platforms using Next.js 15 (App Router, Server Actions), FastAPI, and PostgreSQL with strict relational integrity.
+- **Deterministic Knowledge Ingestion:** Engineering retrieval-augmented generation (RAG) microservices powered by Qdrant Vector DB, semantic search, and verified citations.
 
 ---
 
-### Flagship Systems & Production Deployments
+### Flagship Systems & Production Repositories
 
-| System | Architecture & Stack | Capability & Focus |
-| :--- | :--- | :--- |
-| **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15 &bull; Tailwind CSS &bull; Framer Motion | High-performance 120 FPS personal engineering console with zero scroll layout overhead |
-| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | Next.js &bull; TypeScript &bull; Autonomous Workflows | Multi-agent operations engine automating business task triage, parsing, and execution |
-| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | Python &bull; OpenAI Agents SDK &bull; Tool Calling | Production multi-agent routing modules with deterministic state handoffs and retry logic |
-| **[ai-book-backend](https://github.com/Yusra-Saleem/ai-book-backend)** | Python &bull; FastAPI &bull; Qdrant &bull; Docker | Vector knowledge ingestion service with sub-50ms hybrid semantic retrieval |
-| **[hotel-management-system](https://github.com/Yusra-Saleem/hotel-management-system)** | Next.js &bull; TypeScript &bull; PostgreSQL | High-concurrency room reservation engine with atomic transaction guarantees |
-| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js &bull; React &bull; Tailwind CSS | Luxury automotive dealership SaaS platform with live inventory synchronization |
-| **[todo-app](https://github.com/Yusra-Saleem/todo-app)** | Next.js 15 &bull; TypeScript &bull; Server Actions | Full-stack operations & task management SaaS platform with real-time state |
+| System | Architecture & Tech Stack | Engineering Scope | Release |
+| :--- | :--- | :--- | :--- |
+| **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console | `Production` |
+| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | Next.js, TypeScript, Autonomous Workflows | Multi-agent operations console & task execution engine | `v1.0.0` |
+| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | Python, OpenAI Agents SDK, Tool Calling | Production multi-agent routing modules & handoffs | `v1.0.0` |
+| **[ai-book-backend](https://github.com/Yusra-Saleem/ai-book-backend)** | Python, FastAPI, Qdrant Vector DB, Docker | Vector search & knowledge ingestion microservice | `v1.0.0` |
+| **[hotel-management-system](https://github.com/Yusra-Saleem/hotel-management-system)** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | High-concurrency room reservation & hospitality SaaS | `v1.0.0` |
+| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, React, TypeScript, Tailwind CSS | Luxury automotive dealership & booking platform | `v1.0.0` |
+| **[online-shopping-store](https://github.com/Yusra-Saleem/online-shopping-store)** | Next.js, TypeScript, Tailwind CSS, Stripe | Multi-category shopping cart & digital retail storefront | `v1.0.0` |
+| **[todo-app](https://github.com/Yusra-Saleem/todo-app)** | Next.js 15, React, TypeScript, Tailwind CSS | Full-stack operations management SaaS with real-time state | `v1.0.0` |
 
 ---
 
 ### Technical Capabilities
 
-| Domain | Core Stack & Frameworks |
+| Domain | Core Technologies & Frameworks |
 | :--- | :--- |
-| **AI & Multi-Agent Systems** | OpenAI Agents Python SDK, Multi-Agent Swarms, Model Context Protocol (MCP), Deterministic RAG Pipelines |
-| **Frontend Engineering** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, Framer Motion, HTML5, CSS3 |
-| **Backend & Microservices** | Python, FastAPI, Node.js, Express, RESTful APIs, JWT Authentication, RBAC |
-| **Databases & Vector Storage** | PostgreSQL, Qdrant Vector DB, Prisma ORM, SQLModel, Supabase, MongoDB, Redis |
-| **DevOps & Cloud** | Docker, Git / GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
+| **AI & Multi-Agent Systems** | OpenAI Agents Python SDK, Multi-Agent Swarms, Model Context Protocol (MCP), Qdrant Vector DB, Deterministic RAG |
+| **Frontend Architecture** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, Framer Motion, HTML5, CSS3 |
+| **Backend & APIs** | Python, FastAPI, Node.js, Express, RESTful APIs, JWT Authentication, RBAC |
+| **Databases & Vector Storage** | PostgreSQL, Qdrant Vector DB, Prisma ORM, SQLModel, Supabase, MongoDB |
+| **DevOps & Infrastructure** | Docker, Git, GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
 
 ---
 
-### Engineering Principles
+### Professional Overview
 
-- **Deterministic over Brittle:** Wrapping probabilistic LLM inference in strict Pydantic and TypeScript validation boundaries.
-- **Fault-Tolerant by Default:** Implementing automated exception interceptors, state recovery machines, and circuit breakers.
-- **Atomic Relational Consistency:** Prioritizing strict PostgreSQL relational transactions and ACID guarantees over fragile optimistic updates.
-- **Clean Architecture:** Zero runtime bloat, minimal dependency overhead, and strictly decoupled modular codebases.
-
----
-
-### Professional Background
-
-- **Software Engineer &mdash; Advanced Group of Engineering Inc.** *(Present)*
-  - Engineering enterprise-scale web applications, high-concurrency API backends, and autonomous multi-agent automation modules.
-- **Certified Agentic AI & Generative AI Developer &mdash; GIAIC Initiative**
-  - Advanced specialization in autonomous agent systems, context engineering, and cloud-applied AI architectures.
-- **Bachelor of Science in Computer Science (BSCS)**
+- **Software Engineer &mdash; Advanced Group of Engineering Inc. (Present)**  
+  Engineering scalable web applications, enterprise client solutions, and autonomous multi-agent workflows using Next.js 15, FastAPI, and PostgreSQL. Focused on deterministic tool calling and exception recovery.
+- **Certified Agentic AI & Generative AI Developer &mdash; GIAIC Initiative**  
+  Advanced certification covering agentic intelligence, autonomous multi-agent architectures, and production cloud AI integration.
+- **Bachelor of Science in Computer Science (BSCS)**  
+  Core computer science foundation covering algorithms, data structures, database architecture, and distributed systems.
 
 ---
 
-### Direct Inquiries & Verification
+### Verified Channels
 
-- **Production Console:** [yusrasaleem.dev](https://yusrasaleem.dev)
-- **Professional Network:** [linkedin.com/in/yusra-saleem-dev](https://linkedin.com/in/yusra-saleem-dev)
-- **Direct Email:** [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
+- **Portfolio:** [yusrasaleem.dev](https://yusrasaleem.dev)
+- **LinkedIn:** [linkedin.com/in/yusra-saleem-dev](https://www.linkedin.com/in/yusra-saleem-dev)
+- **Email:** [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
