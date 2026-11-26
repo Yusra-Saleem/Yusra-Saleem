@@ -8,10 +8,10 @@
 <p align="center">
   <a href="https://yusrasaleem.dev"><img src="https://img.shields.io/badge/Portfolio-0B1F1D?style=for-the-badge&logo=googlechrome&logoColor=52D3A2" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yusra-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-0B1F1D?style=for-the-badge&logo=linkedin&logoColor=7FAEA6" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/yusra_saleem.dev/"><img src="https://img.shields.io/badge/Instagram-0B1F1D?style=for-the-badge&logo=instagram&logoColor=E09A8D" alt="Instagram" /></a>
-  <a href="https://facebook.com/profile.php?id=61554327459040"><img src="https://img.shields.io/badge/Facebook-0B1F1D?style=for-the-badge&logo=facebook&logoColor=7FAEA6" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/yusrasaleem.dev/"><img src="https://img.shields.io/badge/Instagram-0B1F1D?style=for-the-badge&logo=instagram&logoColor=E09A8D" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/yusrasaleem.dev"><img src="https://img.shields.io/badge/Facebook-0B1F1D?style=for-the-badge&logo=facebook&logoColor=7FAEA6" alt="Facebook" /></a>
   <a href="mailto:yusrasaleem679@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F1D?style=for-the-badge&logo=gmail&logoColor=52D3A2" alt="Email" /></a>
-  <a href="https://x.com/Yusra96215"><img src="https://img.shields.io/badge/X-0B1F1D?style=for-the-badge&logo=x&logoColor=E8FAF4" alt="X" /></a>
+  <a href="https://x.com/yusrasaleem_dev"><img src="https://img.shields.io/badge/X-0B1F1D?style=for-the-badge&logo=x&logoColor=E8FAF4" alt="X" /></a>
 </p>
 
 <p align="center">
@@ -61,6 +61,7 @@
 
 - **Portfolio:** [yusrasaleem.dev](https://yusrasaleem.dev)
 - **LinkedIn:** [linkedin.com/in/yusra-saleem-dev](https://www.linkedin.com/in/yusra-saleem-dev)
-- **Instagram:** [instagram.com/yusra_saleem.dev](https://www.instagram.com/yusra_saleem.dev/)
-- **Facebook:** [facebook.com/profile.php?id=61554327459040](https://facebook.com/profile.php?id=61554327459040)
+- **Instagram:** [instagram.com/yusrasaleem.dev](https://www.instagram.com/yusrasaleem.dev/)
+- **Facebook:** [facebook.com/yusrasaleem.dev](https://www.facebook.com/yusrasaleem.dev)
+- **X (Twitter):** [x.com/yusrasaleem_dev](https://x.com/yusrasaleem_dev)
 - **Direct Email:** [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
