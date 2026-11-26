@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Engineering scalable full-stack SaaS platforms and autonomous multi-agent systems using Next.js 15, FastAPI, and PostgreSQL.</em>
+  <em>Building scalable web applications and autonomous AI systems that automate business workflows.</em>
 </p>
 
 ---
