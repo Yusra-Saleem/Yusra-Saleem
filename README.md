@@ -79,7 +79,7 @@
 ### Industry Background & Credentials
 
 - **Credential:** Certified Agentic AI & Generative AI Developer, GIAIC Initiative (2025 - Present)
-- **Full Stack & AI Engineer (Freelance / Client Solutions, 2024 - Present):** Architecting production SaaS platforms, high-concurrency booking engines, and scalable e-commerce systems. Developing deterministic RAG pipelines and autonomous multi-agent workflows using Next.js 15, FastAPI, and PostgreSQL.
+- **Full Stack & AI Engineer (Freelance, 2024 - Present):** Architecting production SaaS platforms, high-concurrency booking engines, and scalable e-commerce systems. Developing deterministic RAG pipelines and autonomous multi-agent workflows using Next.js 15, FastAPI, and PostgreSQL.
 - **Advanced Group of Engineering Inc. (AGEI, Present):** Contributing to enterprise operations, workflow coordination, and digital systems management.
 
 ---
