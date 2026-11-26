@@ -1,44 +1,61 @@
 # Yusra Saleem
 ### AI Systems Architect | Full-Stack Engineer
 
-Systems engineer specializing in autonomous agent architectures, real-time voice infrastructure, and production SaaS platforms. Focused on building deterministic, fault-tolerant workflows that automate business operations at scale.
+Systems engineer specializing in autonomous agent architectures, real-time voice infrastructure, and production SaaS platforms. Focused on engineering deterministic, fault-tolerant workflows that automate business operations and scale without fragility.
 
-[yusrasaleem.dev](https://yusrasaleem.dev) &bull; [LinkedIn](https://linkedin.com/in/yusrasaleem-developer) &bull; [Email](mailto:yusrasaleem679@gmail.com)
+[yusrasaleem.dev](https://yusrasaleem.dev) &bull; [LinkedIn](https://linkedin.com/in/yusra-saleem-dev) &bull; [Email](mailto:yusrasaleem679@gmail.com)
 
 ---
 
-### Core Specialization
+### Architectural Focus & Specialization
 
-- **Autonomous Agent Swarms & Tool Calling:** Multi-agent coordination with the OpenAI Agents SDK, Model Context Protocol (MCP), and self-healing interceptors for exception recovery.
+- **Autonomous Agent Swarms & Tool Calling:** Multi-agent orchestration using the OpenAI Agents SDK and Model Context Protocol (MCP), featuring deterministic handoffs and self-healing interceptors for autonomous exception recovery.
 - **Low-Latency Conversational Voice AI:** Bidirectional WebRTC audio pipelines with sub-300ms stream latency and real-time database function calling.
-- **Deterministic Vector RAG:** Qdrant vector retrieval, hybrid semantic search, context engineering, and citation-verified enterprise documentation search.
-- **Production Full-Stack SaaS:** Next.js 15 (App Router), FastAPI, PostgreSQL transactions, and automated cloud deployments on AWS.
+- **Deterministic Vector RAG:** Qdrant vector retrieval, hybrid sparse-dense semantic search, context engineering, and citation-verified enterprise documentation search.
+- **Production Full-Stack SaaS:** Next.js 15 (App Router, Server Actions), FastAPI, PostgreSQL transactional integrity, and automated cloud deployments on AWS.
 
 ---
 
-### Featured Systems
+### Flagship Systems & Production Repositories
 
-| System | Architecture Stack | Technical Focus |
+| Repository | Architecture & Stack | Focus |
 | :--- | :--- | :--- |
 | **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console |
-| **DocuScan AI Agent** | Python, OpenAI Agents SDK, OCR Pipeline | Autonomous document ingestion, parsing, and context routing |
-| **WebRTC Voice AI** | WebRTC, OpenAI Realtime API, FastAPI | Low-latency streaming voice bot with live database queries |
-| **Enterprise RAG Engine** | Qdrant Vector DB, Python, LangChain | Hybrid vector search with deterministic regulatory citations |
-| **LuxeMarket Platform** | Next.js, Stripe, PostgreSQL, AWS | Full-stack e-commerce SaaS with secure billing transactions |
+| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | Next.js, TypeScript, Autonomous Workflows | Multi-agent AI workflow engine and operations dashboard |
+| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | Python, OpenAI Agents SDK, Tool Calling | Production multi-agent routing modules and exception handlers |
+| **[ai-book-backend](https://github.com/Yusra-Saleem/ai-book-backend)** | Python, FastAPI, Qdrant Vector DB, Docker | Knowledge ingestion & RAG service for interactive books |
+| **[ai-robotics-book](https://github.com/Yusra-Saleem/ai-robotics-book)** | TypeScript, Docusaurus, Autonomous Systems | Interactive curriculum on physical AI and embodied robotics |
+| **[hotel-management-system](https://github.com/Yusra-Saleem/hotel-management-system)** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | High-concurrency room reservation engine & booking platform |
+| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, React, TypeScript, Tailwind CSS | Luxury automotive dealership & reservation SaaS platform |
+| **[online-shopping-store](https://github.com/Yusra-Saleem/online-shopping-store)** | Next.js, TypeScript, Tailwind CSS, Stripe | Multi-category shopping cart & digital retail storefront |
+| **[todo-app](https://github.com/Yusra-Saleem/todo-app)** | Next.js 15, React, TypeScript, Tailwind CSS | Full-stack task management SaaS with real-time state |
 
 ---
 
 ### Technical Capabilities
 
-- **Languages & Frameworks:** Python, TypeScript, JavaScript, Next.js 15, React, FastAPI
-- **AI & Agentic Systems:** OpenAI Agents SDK, Model Context Protocol (MCP), OpenAI Realtime API, LangGraph, CrewAI
-- **Data & Vector Storage:** PostgreSQL, Qdrant Vector DB, Redis
-- **Infrastructure & Protocols:** WebRTC, Docker, AWS (EC2, S3), Git, RESTful APIs
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages & Core** | Python, TypeScript, JavaScript, SQL, HTML5, CSS3 |
+| **Frontend Engineering** | Next.js 15, React 19, Tailwind CSS, Framer Motion, Responsive UI/UX |
+| **Backend & APIs** | FastAPI, Node.js, Express, RESTful APIs, WebSockets |
+| **AI & Agentic Systems** | OpenAI Agents SDK, Model Context Protocol (MCP), OpenAI Realtime API, LangGraph, CrewAI |
+| **Vector & Data Storage** | PostgreSQL, Qdrant Vector DB, MongoDB, Redis |
+| **Infrastructure & DevOps** | Docker, WebRTC, AWS (EC2, S3), GitHub Actions CI/CD, Git |
 
 ---
 
-### Contact
+### Professional Background
 
-- Website: https://yusrasaleem.dev
-- LinkedIn: https://linkedin.com/in/yusrasaleem-developer
-- Direct Inquiries: yusrasaleem679@gmail.com
+- **Software Developer** &mdash; **Technova**
+  - Engineered scalable web applications, responsive frontend architectures, and AI-assisted workflow modules.
+- **Tech Faculty & Curriculum Lead** &mdash; **Techverse51**
+  - Mentored developer cohorts in modern TypeScript, Next.js, and autonomous AI system integration.
+
+---
+
+### Contact & Collaboration
+
+- Portfolio: [yusrasaleem.dev](https://yusrasaleem.dev)
+- Professional Network: [linkedin.com/in/yusra-saleem-dev](https://linkedin.com/in/yusra-saleem-dev)
+- Direct Inquiries: [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
