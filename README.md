@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://yusrasaleem.dev">Website</a> &bull;
-  <a href="https://www.linkedin.com/in/yusra-saleem-dev">LinkedIn</a> &bull;
-  <a href="mailto:yusrasaleem679@gmail.com">Email</a> &bull;
-  <a href="https://x.com/Yusra96215">X (Twitter)</a>
+  <a href="https://yusrasaleem.dev"><img src="https://img.shields.io/badge/Portfolio-0B1F1D?style=for-the-badge&logo=googlechrome&logoColor=52D3A2" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yusra-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-0B1F1D?style=for-the-badge&logo=linkedin&logoColor=7FAEA6" alt="LinkedIn" /></a>
+  <a href="mailto:yusrasaleem679@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F1D?style=for-the-badge&logo=gmail&logoColor=E09A8D" alt="Email" /></a>
+  <a href="https://x.com/Yusra96215"><img src="https://img.shields.io/badge/X-0B1F1D?style=for-the-badge&logo=x&logoColor=E8FAF4" alt="X" /></a>
 </p>
 
 <p align="center">
