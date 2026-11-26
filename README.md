@@ -1,61 +1,54 @@
-# Yusra Saleem
-### AI Systems Architect | Full-Stack Engineer
+<h1 align="center">Yusra Saleem</h1>
 
-Systems engineer specializing in autonomous agent architectures, real-time voice infrastructure, and production SaaS platforms. Focused on engineering deterministic, fault-tolerant workflows that automate business operations and scale without fragility.
+<p align="center">
+  <strong>Full Stack & AI Systems Engineer</strong><br>
+  Karachi, Pakistan &bull; Open to Global Remote Opportunities
+</p>
 
-[yusrasaleem.dev](https://yusrasaleem.dev) &bull; [LinkedIn](https://linkedin.com/in/yusra-saleem-dev) &bull; [Email](mailto:yusrasaleem679@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yusra-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yusrasaleem.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yusrasaleem679@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Yusra96215"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
----
-
-### Architectural Focus & Specialization
-
-- **Autonomous Agent Swarms & Tool Calling:** Multi-agent orchestration using the OpenAI Agents SDK and Model Context Protocol (MCP), featuring deterministic handoffs and self-healing interceptors for autonomous exception recovery.
-- **Low-Latency Conversational Voice AI:** Bidirectional WebRTC audio pipelines with sub-300ms stream latency and real-time database function calling.
-- **Deterministic Vector RAG:** Qdrant vector retrieval, hybrid sparse-dense semantic search, context engineering, and citation-verified enterprise documentation search.
-- **Production Full-Stack SaaS:** Next.js 15 (App Router, Server Actions), FastAPI, PostgreSQL transactional integrity, and automated cloud deployments on AWS.
-
----
-
-### Flagship Systems & Production Repositories
-
-| Repository | Architecture & Stack | Focus |
-| :--- | :--- | :--- |
-| **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console |
-| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | Next.js, TypeScript, Autonomous Workflows | Multi-agent AI workflow engine and operations dashboard |
-| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | Python, OpenAI Agents SDK, Tool Calling | Production multi-agent routing modules and exception handlers |
-| **[ai-book-backend](https://github.com/Yusra-Saleem/ai-book-backend)** | Python, FastAPI, Qdrant Vector DB, Docker | Knowledge ingestion & RAG service for interactive books |
-| **[ai-robotics-book](https://github.com/Yusra-Saleem/ai-robotics-book)** | TypeScript, Docusaurus, Autonomous Systems | Interactive curriculum on physical AI and embodied robotics |
-| **[hotel-management-system](https://github.com/Yusra-Saleem/hotel-management-system)** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | High-concurrency room reservation engine & booking platform |
-| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, React, TypeScript, Tailwind CSS | Luxury automotive dealership & reservation SaaS platform |
-| **[online-shopping-store](https://github.com/Yusra-Saleem/online-shopping-store)** | Next.js, TypeScript, Tailwind CSS, Stripe | Multi-category shopping cart & digital retail storefront |
-| **[todo-app](https://github.com/Yusra-Saleem/todo-app)** | Next.js 15, React, TypeScript, Tailwind CSS | Full-stack task management SaaS with real-time state |
+<p align="center">
+  <em>Systems engineer building production web applications and autonomous AEGI agent architectures. Focused on Next.js 15, FastAPI, PostgreSQL, and multi-agent coordination that automates enterprise workflows.</em>
+</p>
 
 ---
 
-### Technical Capabilities
+### Professional Overview
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages & Core** | Python, TypeScript, JavaScript, SQL, HTML5, CSS3 |
-| **Frontend Engineering** | Next.js 15, React 19, Tailwind CSS, Framer Motion, Responsive UI/UX |
-| **Backend & APIs** | FastAPI, Node.js, Express, RESTful APIs, WebSockets |
-| **AI & Agentic Systems** | OpenAI Agents SDK, Model Context Protocol (MCP), OpenAI Realtime API, LangGraph, CrewAI |
-| **Vector & Data Storage** | PostgreSQL, Qdrant Vector DB, MongoDB, Redis |
-| **Infrastructure & DevOps** | Docker, WebRTC, AWS (EC2, S3), GitHub Actions CI/CD, Git |
+- **Education:** BS in Computer Science (BSCS)
+- **Credential:** Certified Agentic AI & Generative AI Developer, GIAIC Initiative
+- **Full Stack & AI Systems Developer (Freelance / Client Solutions):** Building scalable SaaS platforms, high-concurrency reservation systems, and autonomous multi-agent workflows using Next.js 15, FastAPI, and PostgreSQL. Engineering self-correcting agent loops and deterministic tool execution.
+- **AEGI & Agentic AI Architecture:** Designing specialized Autonomous Enterprise General Intelligence (AEGI) workflows where multi-agent swarms coordinate across operations, data ingestion, document parsing, and exception recovery.
 
 ---
 
-### Professional Background
+### Technical Arsenal
 
-- **Software Developer** &mdash; **Technova**
-  - Engineered scalable web applications, responsive frontend architectures, and AI-assisted workflow modules.
-- **Tech Faculty & Curriculum Lead** &mdash; **Techverse51**
-  - Mentored developer cohorts in modern TypeScript, Next.js, and autonomous AI system integration.
+| Domain | Core Stack & Frameworks |
+|:---|:---|
+| **AI & Multi-Agent Systems** | OpenAI Agents Python SDK, Autonomous AEGI Agents, Multi-Agent Swarms, Model Context Protocol (MCP), Deterministic RAG Pipelines |
+| **Frontend Engineering** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, Framer Motion, HTML5, CSS3 |
+| **Backend & APIs** | Python, FastAPI, Node.js, Express, REST APIs, JWT Authentication, RBAC |
+| **Databases & Vector Storage** | PostgreSQL, Qdrant Vector DB, Prisma ORM, SQLModel, Supabase, MongoDB |
+| **DevOps & Infrastructure** | Docker, Git / GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
 
 ---
 
-### Contact & Collaboration
+### Core Engineering Focus
 
-- Portfolio: [yusrasaleem.dev](https://yusrasaleem.dev)
-- Professional Network: [linkedin.com/in/yusra-saleem-dev](https://linkedin.com/in/yusra-saleem-dev)
-- Direct Inquiries: [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
+- **AEGI & Multi-Agent Systems:** Engineering specialized agent swarms where autonomous agents coordinate across business operations with deterministic tool execution, automated exception handling, and reliable handoffs.
+- **Backend Architecture & APIs:** Designing high-concurrency backends using FastAPI and PostgreSQL with strict Pydantic/TypeScript validation, schema migrations, and secure RBAC authorization.
+- **Full-Stack Delivery:** Delivering end-to-end production applications from responsive 120 FPS frontends and relational database models to automated CI/CD and cloud deployments.
+
+---
+
+### Connect
+
+- **Portfolio:** [yusrasaleem.dev](https://yusrasaleem.dev)
+- **LinkedIn:** [linkedin.com/in/yusra-saleem-dev](https://www.linkedin.com/in/yusra-saleem-dev)
+- **Email:** [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
