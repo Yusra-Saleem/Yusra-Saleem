@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Sanity-0B1F1D?style=flat-square&logo=sanity&logoColor=7FAEA6" alt="Sanity" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0B1F1D?style=flat-square&logo=githubactions&logoColor=52D3A2" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-0B1F1D?style=flat-square&logo=git&logoColor=7FAEA6" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-0B1F1D?style=flat-square&logo=postman&logoColor=52D3A2" alt="Postman" />
+  
 </p>
 
 ---
