@@ -40,13 +40,10 @@
 | System | Architecture & Tech Stack | Engineering Scope | Release |
 | :--- | :--- | :--- | :--- |
 | **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console | `Production` |
-| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | Next.js, TypeScript, Autonomous Workflows | Multi-agent operations console & task execution engine | `v1.0.0` |
-| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | Python, OpenAI Agents SDK, Tool Calling | Production multi-agent routing modules & handoffs | `v1.0.0` |
-| **[ai-book-backend](https://github.com/Yusra-Saleem/ai-book-backend)** | Python, FastAPI, Qdrant Vector DB, Docker | Vector search & knowledge ingestion microservice | `v1.0.0` |
-| **[hotel-management-system](https://github.com/Yusra-Saleem/hotel-management-system)** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | High-concurrency room reservation & hospitality SaaS | `v1.0.0` |
-| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, React, TypeScript, Tailwind CSS | Luxury automotive dealership & booking platform | `v1.0.0` |
-| **[online-shopping-store](https://github.com/Yusra-Saleem/online-shopping-store)** | Next.js, TypeScript, Tailwind CSS, Stripe | Multi-category shopping cart & digital retail storefront | `v1.0.0` |
-| **[todo-app](https://github.com/Yusra-Saleem/todo-app)** | Next.js 15, React, TypeScript, Tailwind CSS | Full-stack operations management SaaS with real-time state | `v1.0.0` |
+| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | OpenAI Agents SDK, Python FastAPI, PostgreSQL | Business AI automation agent & operations console | `v1.0.0` |
+| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | OpenAI Agents SDK, Python, PostgreSQL, Next.js | Realtime voice & AI business assistant modules | `v1.0.0` |
+| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, FastAPI, PostgreSQL, AWS Cloud | Full-stack dealership management SaaS platform | `v1.0.0` |
+| **[ai-robotics-book](https://github.com/Yusra-Saleem/ai-robotics-book)** | Docusaurus, Qdrant Vector DB, FastAPI | Interactive AI book & deterministic RAG knowledge engine | `v1.0.0` |
 
 ---
 
