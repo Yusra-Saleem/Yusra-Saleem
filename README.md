@@ -20,13 +20,30 @@
 
 ### Engineering Capabilities
 
-| Domain | Core Stack & Frameworks |
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js_15-0B1F1D?style=flat-square&logo=nextdotjs&logoColor=52D3A2" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-0B1F1D?style=flat-square&logo=react&logoColor=7FAEA6" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1F1D?style=flat-square&logo=typescript&logoColor=52D3A2" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-0B1F1D?style=flat-square&logo=python&logoColor=7FAEA6" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0B1F1D?style=flat-square&logo=fastapi&logoColor=52D3A2" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/OpenAI_Agents-0B1F1D?style=flat-square&logo=openai&logoColor=7FAEA6" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1F1D?style=flat-square&logo=postgresql&logoColor=52D3A2" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Qdrant-0B1F1D?style=flat-square&logo=qdrant&logoColor=7FAEA6" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Docker-0B1F1D?style=flat-square&logo=docker&logoColor=52D3A2" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-0B1F1D?style=flat-square&logo=amazonwebservices&logoColor=7FAEA6" alt="AWS" />
+  <img src="https://img.shields.io/badge/Stripe-0B1F1D?style=flat-square&logo=stripe&logoColor=52D3A2" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Sanity-0B1F1D?style=flat-square&logo=sanity&logoColor=7FAEA6" alt="Sanity" />
+</p>
+
+| Domain | Verified Stack & Technologies |
 | :--- | :--- |
-| **Autonomous AI Systems** | OpenAI Agents Python SDK, Multi-Agent Swarms, Model Context Protocol (MCP), Qdrant Vector DB, Deterministic RAG |
-| **Production Frontend** | Next.js 15 (App Router, Server Actions), React 19, TypeScript, Tailwind CSS, Framer Motion |
-| **Backend & APIs** | Python, FastAPI, Node.js, Express, RESTful Microservices, JWT Authentication, RBAC |
-| **Database & Vector Engines** | PostgreSQL (Neon / Supabase), Qdrant Vector DB, Prisma ORM, SQLModel, MongoDB |
-| **Cloud & DevOps Delivery** | Docker, Git / GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
+| **Languages & Core** | Python, TypeScript, JavaScript, SQL, HTML5, CSS3, PowerShell |
+| **AI & Agentic Systems** | OpenAI Agents Python SDK, Model Context Protocol (MCP), Multi-Agent Swarms, Qdrant Vector DB, Deterministic RAG, LangChain, Gemini API, Document Parsing & OCR |
+| **Frontend Architecture** | Next.js 15 (App Router, Server Actions), React 19, Tailwind CSS, Framer Motion, Docusaurus, Streamlit, Responsive UI/UX |
+| **Backend & Microservices** | Python FastAPI, Node.js, Express, RESTful APIs, JWT Authentication, RBAC, Alembic Migrations |
+| **Databases & Vector Storage** | PostgreSQL (Neon, Supabase), Qdrant Vector DB, Prisma ORM, SQLModel, MongoDB |
+| **E-Commerce & Headless CMS** | Stripe Billing & Payments, Sanity CMS, Transaction Webhooks, Order & Booking State Engines |
+| **Cloud, DevOps & Tooling** | Docker, Git, GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman, Linux CLI |
 
 ---
 
