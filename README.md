@@ -35,18 +35,6 @@
 
 ---
 
-### Flagship Systems & Production Repositories
-
-| System | Architecture & Tech Stack | Engineering Scope | Release |
-| :--- | :--- | :--- | :--- |
-| **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console | `Production` |
-| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | OpenAI Agents SDK, Python FastAPI, PostgreSQL | Business AI automation agent & operations console | `v1.0.0` |
-| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | OpenAI Agents SDK, Python, PostgreSQL, Next.js | Realtime voice & AI business assistant modules | `v1.0.0` |
-| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, FastAPI, PostgreSQL, AWS Cloud | Full-stack dealership management SaaS platform | `v1.0.0` |
-| **[ai-robotics-book](https://github.com/Yusra-Saleem/ai-robotics-book)** | Docusaurus, Qdrant Vector DB, FastAPI | Interactive AI book & deterministic RAG knowledge engine | `v1.0.0` |
-
----
-
 ### Direct Inquiries
 
 - **Portfolio:** [yusrasaleem.dev](https://yusrasaleem.dev)
