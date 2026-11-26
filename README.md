@@ -38,12 +38,12 @@
 | Domain | Verified Stack & Technologies |
 | :--- | :--- |
 | **Languages & Core** | Python, TypeScript, JavaScript, SQL, HTML5, CSS3, PowerShell |
-| **AI & Agentic Systems** | OpenAI Agents Python SDK, Model Context Protocol (MCP), Multi-Agent Swarms, Qdrant Vector DB, Deterministic RAG, LangChain, Gemini API, Document Parsing & OCR |
-| **Frontend Architecture** | Next.js 15 (App Router, Server Actions), React 19, Tailwind CSS, Framer Motion, Docusaurus, Streamlit, Responsive UI/UX |
-| **Backend & Microservices** | Python FastAPI, Node.js, Express, RESTful APIs, JWT Authentication, RBAC, Alembic Migrations |
-| **Databases & Vector Storage** | PostgreSQL (Neon, Supabase), Qdrant Vector DB, Prisma ORM, SQLModel, MongoDB |
+| **AI & Agentic Systems** | OpenAI Agents Python SDK, Model Context Protocol (MCP), Multi-Agent Swarms, Qdrant Vector DB, FastEmbed, Deterministic RAG, Document Parsing & OCR |
+| **Frontend Architecture** | Next.js 15 (App Router, Server Actions), React 19, Tailwind CSS, Framer Motion, Docusaurus, Responsive UI/UX |
+| **Backend & Microservices** | Python FastAPI, Uvicorn, Next.js Server Actions, RESTful APIs, JWT Authentication, NextAuth.js, Better Auth, RBAC |
+| **Databases & Vector Storage** | PostgreSQL (Neon Serverless, Supabase), Qdrant Vector DB, Prisma ORM, SQLAlchemy, AsyncPG |
 | **E-Commerce & Headless CMS** | Stripe Billing & Payments, Sanity CMS, Transaction Webhooks, Order & Booking State Engines |
-| **Cloud, DevOps & Tooling** | Docker, Git, GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman, Linux CLI |
+| **Cloud, DevOps & Tooling** | Docker, Git, GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
 
 ---
 
