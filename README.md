@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full Stack & AI Systems Engineer</strong><br>
-  Karachi, Pakistan &bull; Open to Remote Opportunities
+  Karachi, Pakistan &bull; Open to Global Remote Opportunities
 </p>
 
 <p align="center">
@@ -13,36 +13,37 @@
 </p>
 
 <p align="center">
-  <em>Engineering scalable full-stack SaaS platforms and autonomous multi-agent systems using Next.js 15, FastAPI, and PostgreSQL.</em>
+  <em>Bridging transactional SaaS stability with autonomous AI reasoning to build deterministic systems that scale.</em>
 </p>
 
 ---
 
 ### Professional Overview
 
-- **Advanced Group of Engineering Inc. (AGEI)** &mdash; Full-Stack & AI Systems
-- **Certified Agentic AI & Generative AI Developer** &mdash; GIAIC Initiative
-- **Bachelor of Science in Computer Science (BSCS)**
+- **Education:** Bachelor of Science in Computer Science (BSCS)
+- **Credential:** Certified Agentic AI & Generative AI Developer, GIAIC Initiative (2025 - Present)
+- **Full Stack & AI Engineer (Freelance / Client Solutions, 2024 - Present):** Architecting production SaaS platforms, high-concurrency booking engines, and scalable e-commerce systems. Developing deterministic RAG pipelines and autonomous multi-agent workflows using Next.js 15, FastAPI, and PostgreSQL.
+- **Advanced Group of Engineering Inc. (AGEI, Present):** Contributing to enterprise software delivery, multi-agent workflow automation, and scalable full-stack web infrastructure.
 
 ---
 
 ### Technical Arsenal
 
-| Domain | Technologies |
-| :--- | :--- |
-| **AI & Multi-Agent Systems** | OpenAI Agents Python SDK, Multi-Agent Swarms, Model Context Protocol (MCP), Qdrant Vector DB, Deterministic RAG |
-| **Frontend Engineering** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, Framer Motion |
-| **Backend & APIs** | Python, FastAPI, Node.js, RESTful APIs, JWT Authentication, RBAC |
-| **Databases & Vector Storage** | PostgreSQL, Qdrant Vector DB, Prisma ORM, SQLModel, MongoDB |
-| **DevOps & Cloud** | Docker, Git, GitHub Actions CI/CD, AWS, Vercel |
+| Domain | Core Stack & Frameworks |
+|:---|:---|
+| **AI & Multi-Agent Systems** | OpenAI Agents Python SDK, Autonomous Multi-Agent Swarms, Model Context Protocol (MCP), Qdrant Vector DB, Deterministic RAG |
+| **Frontend Engineering** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, Framer Motion, HTML5, CSS3 |
+| **Backend & APIs** | Python, FastAPI, Node.js, Express, RESTful APIs, JWT Authentication, RBAC |
+| **Databases & Vector Storage** | PostgreSQL, Qdrant Vector DB, Prisma ORM, SQLModel, Supabase, MongoDB |
+| **DevOps & Infrastructure** | Docker, Git / GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
 
 ---
 
 ### Core Engineering Focus
 
-- **Autonomous Multi-Agent Systems:** Multi-agent swarms with deterministic tool calling and automated exception handling.
-- **Full-Stack SaaS Architecture:** High-concurrency backends with FastAPI & PostgreSQL, and responsive 120 FPS frontends with Next.js 15.
-- **Deterministic RAG:** Context-engineered vector retrieval microservices powered by Qdrant.
+- **Autonomous Multi-Agent Systems:** Engineering specialized agent swarms where autonomous agents coordinate across business operations with deterministic tool execution, automated exception handling, and reliable handoffs.
+- **Backend Architecture & APIs:** Designing high-concurrency backends using FastAPI and PostgreSQL with strict Pydantic/TypeScript validation, schema migrations, and secure RBAC authorization.
+- **Full-Stack Delivery:** Delivering end-to-end production applications from responsive 120 FPS frontends and relational database models to automated CI/CD and cloud deployments.
 
 ---
 
