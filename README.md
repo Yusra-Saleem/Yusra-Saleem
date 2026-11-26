@@ -38,9 +38,6 @@
   <img src="https://img.shields.io/badge/JavaScript-0B1F1D?style=flat-square&logo=javascript&logoColor=7FAEA6" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0B1F1D?style=flat-square&logo=python&logoColor=52D3A2" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-0B1F1D?style=flat-square&logo=postgresql&logoColor=7FAEA6" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-0B1F1D?style=flat-square&logo=html5&logoColor=52D3A2" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0B1F1D?style=flat-square&logo=css3&logoColor=7FAEA6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Markdown-0B1F1D?style=flat-square&logo=markdown&logoColor=52D3A2" alt="Markdown" />
   <img src="https://img.shields.io/badge/FastAPI-0B1F1D?style=flat-square&logo=fastapi&logoColor=7FAEA6" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Uvicorn-0B1F1D?style=flat-square&logo=gunicorn&logoColor=52D3A2" alt="Uvicorn" />
   <img src="https://img.shields.io/badge/Pydantic-0B1F1D?style=flat-square&logo=pydantic&logoColor=7FAEA6" alt="Pydantic" />
