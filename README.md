@@ -1,54 +1,57 @@
-<h1 align="center">Yusra Saleem</h1>
+<div align="center">
+
+![Yusra Saleem Banner](https://raw.githubusercontent.com/Yusra-Saleem/Yusra-Saleem/main/theme-banner.svg)
 
 <p align="center">
-  <strong>Full Stack & AI Systems Engineer</strong><br>
-  Karachi, Pakistan &bull; Open to Global Remote Opportunities
+  <a href="https://yusrasaleem.dev"><img src="https://img.shields.io/badge/yusrasaleem.dev-0B1F1D?style=flat-square&logo=googlechrome&logoColor=52D3A2" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yusra-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-0B1F1D?style=flat-square&logo=linkedin&logoColor=7FAEA6" alt="LinkedIn" /></a>
+  <a href="mailto:yusrasaleem679@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F1D?style=flat-square&logo=gmail&logoColor=E09A8D" alt="Email" /></a>
+  <a href="https://x.com/Yusra96215"><img src="https://img.shields.io/badge/X-0B1F1D?style=flat-square&logo=x&logoColor=E8FAF4" alt="X" /></a>
 </p>
 
-<p align="center">
-  <a href="https://yusrasaleem.dev">Website</a> &bull;
-  <a href="https://www.linkedin.com/in/yusra-saleem-dev">LinkedIn</a> &bull;
-  <a href="mailto:yusrasaleem679@gmail.com">Email</a> &bull;
-  <a href="https://x.com/Yusra96215">X (Twitter)</a>
-</p>
+</div>
 
-<p align="center">
-  <em>Bridging transactional SaaS stability with autonomous AI reasoning to build deterministic systems that scale.</em>
-</p>
+> "Bridging transactional SaaS stability with autonomous AI reasoning to engineer deterministic systems that scale."
 
 ---
 
-### Professional Overview
+### Industry Background & Credentials
 
-- **Education:** Bachelor of Science in Computer Science (BSCS)
 - **Credential:** Certified Agentic AI & Generative AI Developer, GIAIC Initiative (2025 - Present)
 - **Full Stack & AI Engineer (Freelance / Client Solutions, 2024 - Present):** Architecting production SaaS platforms, high-concurrency booking engines, and scalable e-commerce systems. Developing deterministic RAG pipelines and autonomous multi-agent workflows using Next.js 15, FastAPI, and PostgreSQL.
 - **Advanced Group of Engineering Inc. (AGEI, Present):** Contributing to enterprise software delivery, multi-agent workflow automation, and scalable full-stack web infrastructure.
 
 ---
 
-### Technical Arsenal
+### Engineering Capabilities
 
 | Domain | Core Stack & Frameworks |
-|:---|:---|
-| **AI & Multi-Agent Systems** | OpenAI Agents Python SDK, Autonomous Multi-Agent Swarms, Model Context Protocol (MCP), Qdrant Vector DB, Deterministic RAG |
-| **Frontend Engineering** | Next.js 15 (App Router), React 19, TypeScript, JavaScript, Tailwind CSS, Framer Motion, HTML5, CSS3 |
-| **Backend & APIs** | Python, FastAPI, Node.js, Express, RESTful APIs, JWT Authentication, RBAC |
-| **Databases & Vector Storage** | PostgreSQL, Qdrant Vector DB, Prisma ORM, SQLModel, Supabase, MongoDB |
-| **DevOps & Infrastructure** | Docker, Git / GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
+| :--- | :--- |
+| **Autonomous AI Systems** | OpenAI Agents Python SDK, Multi-Agent Swarms, Model Context Protocol (MCP), Qdrant Vector DB, Deterministic RAG |
+| **Production Frontend** | Next.js 15 (App Router, Server Actions), React 19, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend & APIs** | Python, FastAPI, Node.js, Express, RESTful Microservices, JWT Authentication, RBAC |
+| **Database & Vector Engines** | PostgreSQL (Neon / Supabase), Qdrant Vector DB, Prisma ORM, SQLModel, MongoDB |
+| **Cloud & DevOps Delivery** | Docker, Git / GitHub Actions CI/CD, AWS (EC2, S3), Vercel, Postman |
 
 ---
 
-### Core Engineering Focus
+### Flagship Systems & Production Repositories
 
-- **Autonomous Multi-Agent Systems:** Engineering specialized agent swarms where autonomous agents coordinate across business operations with deterministic tool execution, automated exception handling, and reliable handoffs.
-- **Backend Architecture & APIs:** Designing high-concurrency backends using FastAPI and PostgreSQL with strict Pydantic/TypeScript validation, schema migrations, and secure RBAC authorization.
-- **Full-Stack Delivery:** Delivering end-to-end production applications from responsive 120 FPS frontends and relational database models to automated CI/CD and cloud deployments.
+| System | Architecture & Tech Stack | Engineering Scope | Release |
+| :--- | :--- | :--- | :--- |
+| **[yusrasaleem.dev](https://github.com/Yusra-Saleem/yusrasaleem.dev)** | Next.js 15, Tailwind CSS, Framer Motion | High-performance 120 FPS personal engineering console | `Production` |
+| **[operator-one](https://github.com/Yusra-Saleem/operator-one)** | Next.js, TypeScript, Autonomous Workflows | Multi-agent operations console & task execution engine | `v1.0.0` |
+| **[openai-agent-sdk](https://github.com/Yusra-Saleem/openai-agent-sdk)** | Python, OpenAI Agents SDK, Tool Calling | Production multi-agent routing modules & handoffs | `v1.0.0` |
+| **[ai-book-backend](https://github.com/Yusra-Saleem/ai-book-backend)** | Python, FastAPI, Qdrant Vector DB, Docker | Vector search & knowledge ingestion microservice | `v1.0.0` |
+| **[hotel-management-system](https://github.com/Yusra-Saleem/hotel-management-system)** | Next.js, TypeScript, Tailwind CSS, PostgreSQL | High-concurrency room reservation & hospitality SaaS | `v1.0.0` |
+| **[elite-motors](https://github.com/Yusra-Saleem/elite-motors)** | Next.js, React, TypeScript, Tailwind CSS | Luxury automotive dealership & booking platform | `v1.0.0` |
+| **[online-shopping-store](https://github.com/Yusra-Saleem/online-shopping-store)** | Next.js, TypeScript, Tailwind CSS, Stripe | Multi-category shopping cart & digital retail storefront | `v1.0.0` |
+| **[todo-app](https://github.com/Yusra-Saleem/todo-app)** | Next.js 15, React, TypeScript, Tailwind CSS | Full-stack operations management SaaS with real-time state | `v1.0.0` |
 
 ---
 
-### Connect
+### Direct Inquiries
 
 - **Portfolio:** [yusrasaleem.dev](https://yusrasaleem.dev)
 - **LinkedIn:** [linkedin.com/in/yusra-saleem-dev](https://www.linkedin.com/in/yusra-saleem-dev)
-- **Email:** [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
+- **Direct Email:** [yusrasaleem679@gmail.com](mailto:yusrasaleem679@gmail.com)
